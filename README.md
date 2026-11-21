@@ -13,6 +13,8 @@ Estructura del repositorio
 ├── android/   App móvil (abrir esta carpeta en Android Studio)
 ├── backend/   API REST + base de datos SQLite
 └── README.md
+
+
 Funcionalidades
 Registro de usuario con validaciones (correo válido, contraseña de mínimo 6 caracteres).
 Inicio de sesión con token JWT.
