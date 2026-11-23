@@ -7,7 +7,7 @@ Backend: Node.js + Express (API REST con JWT)
 Base de datos: SQLite (relacional)
 Video de demostración
 
-🎥 Enlace al video: (pendiente, agregar aquí el link)
+🎥 Enlace al video:(https://youtu.be/783YXdRCfvQ)
 
 Estructura del repositorio
 ├── android/   App móvil (abrir esta carpeta en Android Studio)
